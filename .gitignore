@@ -4,3 +4,8 @@ data
 models
 *.swp
 *.p
+original/**
+old_training_runs/**
+*~
+checkpoint
+.idea/**
